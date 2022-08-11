@@ -1,0 +1,13 @@
+¿Que son las variables? = Imagina una caja en la que puedes guardar x tipo de cosas a las que puedes acceder cuando quieras y puedes sacar el contenido y modificarlo a placer, ese el comportamiento de una variable, en JS estas variables la podemos usar como objeto de operaciones aritmeticas, para comparaciones y un sin fin de cosas mas.
+
+¿Que son los strings? = Son literalmente una cadena de texto, dentro de JS la podemos usar para formar conjuntos de palabras o realizar avisos.
+
+¿Que son las funciones? = En las funciones podemos guardar trozos de codigo enteros que realizan, valga la redundancia, una funcion y podemos darle un nombre que describen lo que hacen para así poder llamar a la funcion mas adelante cuando sea necesario, por esto mismo las funciones son un tipo de objeto llamado callable objects u objetos invocables.
+
+ - Los argumentos en una funcion son basicamente Variables que podemos usar dentro de las funciones, por ejemplo usar una variable a y b para realizar una funcion de suma.
+
+ - Declaracion return es la forma en la que un dato puede escapar de la funcion y ser mostrado y utilizado fuera de la funcion.
+
+Declaracion if = Es una forma de tomar decisiones en el codigo de tu programa, basicamente es una condicional que nos permite ejecutar un codigo o no dependiendo si la condicion expresada es verdadera o falsa.
+
+Valores booleanos = Es una forma de expresar la logica de boole en los lenguajes de programacion, misma logica en la que se basa el codigo binario y el corazon de las computadoras, es decir que solo entiende de 0 y 1, apagado o encendido, falso o veradero, en JS usamos esto con los datos booleanos true or false (vardero y falso en ingles).
